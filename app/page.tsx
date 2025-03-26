@@ -70,10 +70,10 @@ export default function Home() {
               transition={{ duration: 0.8, ease: "easeOut" }}
               className="text-center font-bold text-[20px] leading-relaxed font-[var(--font-roboto-condensed)]"
             >
-              At RocketFin we're not just consultants, we're partners in your
+              At RocketFin we&apos;re not just consultants, we&apos;re partners in your
               journey to success. We transform complex challenges into elegant
               solutions, powered by cutting-edge data insights, AI and agile
-              methodologies. We listen to your ambitions, envision your user's
+              methodologies. We listen to your ambitions, envision your user&apos;s
               goals and then design and engineer solutions that fit your unique
               trajectory at a cost effective level. We work alongside you,
               combining our expertise with your vision to craft custom-built
@@ -268,7 +268,7 @@ export default function Home() {
                 Delivery Focused
               </h3>
               <p className="text-[18px] mb-8 font-[var(--font-roboto-condensed)] flex-grow">
-                RocketFin's breadth of advisory and technology delivery
+                RocketFin&apos;s breadth of advisory and technology delivery
                 expertise enables us to deliver innovative solutions on-time, in
                 budget and that make a difference to your business.
               </p>
