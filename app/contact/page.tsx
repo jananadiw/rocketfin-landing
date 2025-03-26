@@ -36,7 +36,8 @@ export default function Contact() {
       } else {
         setSubmitStatus('error');
       }
-    } catch (error) {
+    } catch (_error: unknown) {
+      console.error('Form submission failed:', _error);
       setSubmitStatus('error');
     } finally {
       setIsSubmitting(false);
